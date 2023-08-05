@@ -1,7 +1,7 @@
 #! /bin/bash
 
-# to giv comments in our script 
-
+ 
+# echo is used to print output at console.
 echo "hello world!!!!"
 
 echo Theh shell name is :   $BASH
@@ -11,8 +11,8 @@ echo Present working directory is:  $PWD
 
 
 name=Anil
-val=34
+value=34
 echo My name is $name
-echo the value is $val
+echo the value is $value
 
-echo "$val"
+echo "$value"
