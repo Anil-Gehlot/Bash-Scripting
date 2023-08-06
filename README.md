@@ -20,3 +20,4 @@ In this repository, you'll find a variety of bash scripts that I've created to e
 To get started with the scripts in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+   git clone https://github.com/Anil-Gehlot/Bash-Scripting.git
