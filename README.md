@@ -50,3 +50,14 @@ Each script includes comments and explanations to help you understand its purpos
    bash 01_hello.sh
 
 
+## Contributing
+
+I welcome contributions to this repository! If you have a bash script that you'd like to share or an improvement to an existing script, feel free to open a pull request. Make sure to follow the existing folder structure and provide clear documentation for your contributions.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the scripts in accordance with the terms of the license.
+
+Happy scripting and learning!
+
+
