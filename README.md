@@ -23,3 +23,9 @@ To get started with the scripts in this repository, follow these steps:
 
    ```bash
    git clone https://github.com/Anil-Gehlot/Bash-Scripting.git
+
+
+2. Navigate to the cloned directory:
+
+   ```bash
+      cd Bash-Scripting
