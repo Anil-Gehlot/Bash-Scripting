@@ -46,7 +46,7 @@ Feel free to explore these folders and examine the scripts to learn more about b
 Each script includes comments and explanations to help you understand its purpose and functionality. To run a script, open your terminal and navigate to the script's directory. Then, execute the script using the `bash` command. For example:
 
    ```bash
-   cd basics
-   bash hello-world.sh
+   cd Bash-Scripting
+   bash 01_hello.sh
 
 
