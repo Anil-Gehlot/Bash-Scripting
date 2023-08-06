@@ -29,7 +29,6 @@ To get started with the scripts in this repository, follow these steps:
    ```bash
       cd Bash-Scripting
 
-
 3. Browse through the folders to explore the different bash scripts available.
 
 ## Scripts
@@ -37,8 +36,6 @@ To get started with the scripts in this repository, follow these steps:
 The scripts in this repository are organized into folders based on their topics. Here's a brief overview of each folder:
 
 - `basics`: Contains scripts that cover fundamental bash commands and concepts.
-- `file-handling`: Demonstrates file manipulation and processing.
-- `text-processing`: Focuses on manipulating and processing text data.
 - `conditional-statements`: Illustrates the use of conditional statements and branching.
 - `loops`: Provides examples of loop structures for iteration.
 
@@ -47,5 +44,9 @@ Feel free to explore these folders and examine the scripts to learn more about b
 ## Usage
 
 Each script includes comments and explanations to help you understand its purpose and functionality. To run a script, open your terminal and navigate to the script's directory. Then, execute the script using the `bash` command. For example:
+
+   ```bash
+   cd basics
+   bash hello-world.sh
 
 
