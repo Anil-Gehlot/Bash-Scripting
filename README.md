@@ -32,7 +32,7 @@ To get started with the scripts in this repository, follow these steps:
 
 ## Scripts
 
-The scripts in this repository are organized into folders based on their topics. Here's a brief overview of each folder:
+Here's an overview of content of this repository:
 
 - `basics`: Contains scripts that cover fundamental bash commands and concepts.
 - `conditional-statements`: Illustrates the use of conditional statements and branching.
@@ -52,7 +52,3 @@ Each script includes comments and explanations to help you understand its purpos
 ## Contributing
 
 I welcome contributions to this repository! If you have a bash script that you'd like to share or an improvement to an existing script, feel free to open a pull request. Make sure to follow the existing folder structure and provide clear documentation for your contributions.
-
-
-
-
