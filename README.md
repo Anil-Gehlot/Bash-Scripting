@@ -13,7 +13,7 @@ Welcome to the Bash Scripting Repository! This repository contains a collection 
 
 ## Introduction
 
-In this repository, you'll find a variety of bash scripts that I've created to enhance my understanding of bash scripting. These scripts cover different topics, such as file manipulation, text processing, loops, conditional statements, and more. By exploring this repository, you can gain insights into how these concepts are applied in practical scenarios.
+In this repository, you'll find a variety of bash scripts that I've created to enhance my understanding of bash scripting. These scripts cover different topics, such as loops, conditional statements, and many more. By exploring this repository, you can gain insights into how these concepts are applied in practical scenarios.
 
 ## Getting Started
 
