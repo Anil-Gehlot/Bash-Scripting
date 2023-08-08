@@ -1,5 +1,6 @@
 # /bin/bash
 
+# How to use until loop in bash script.
 i=1
 
 until [ $i -gt 10 ]
