@@ -1,10 +1,10 @@
 #! /bin/bash
 
 
-# TO find the length of the string.....
+# How tO find the length of the string.
 
-s1="welocme to my world"
+str="welocme to my world"
 
-len=${#s1}
+len=${#str}
 
-echo $len
+echo "The length of string is : $len"
