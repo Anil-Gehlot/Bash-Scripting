@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# There are 13 types of arithmetic operators and always use them in between ((....))
+# There are 13 types of arithmetic operators in bash-scripting and always use them in between ((....))
 
 num1=10
 num2=3
