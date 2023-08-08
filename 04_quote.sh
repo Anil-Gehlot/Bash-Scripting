@@ -1,4 +1,7 @@
 #!/bin/bash  
+
+# using single quote & double quote both with echo.
+
 echo  
 echo "When single quote is used with string:"  
 invitation='Welcome to javatpoint'  
