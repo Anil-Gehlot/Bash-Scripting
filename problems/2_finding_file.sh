@@ -1,7 +1,6 @@
 #! /bin/bash
 
-#  finding all files with given extension
-
+#  finding the path of all files with given extension
 
 
 read -p "Enter the filename with Extension: " fileName
