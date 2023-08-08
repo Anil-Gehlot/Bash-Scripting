@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# How to use while loop in bash-script.
 
 read -p "Enter starting number: " start  
 read -p "Enter ending number: " end
@@ -22,7 +23,7 @@ echo
 
 while true
 do
-    echo "hmmm"
+    echo "hello"
     sleep 1s
 done
 echo
