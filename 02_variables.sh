@@ -1,14 +1,14 @@
 #! /bin/bash
 
-year=2012
-comp_name=jtp
+# How to declare variable and print them. 
+
+year=2002
+company_name=Atlassin
 
 echo $year
-echo $comp_name
+echo $company_name
 
-a1=hello_Here
+greet="Hello welcome to the $company_name since $year"
 
-echo $a1
-
-echo $year the $comp_name
+echo $greet
 
