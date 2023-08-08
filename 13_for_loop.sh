@@ -1,6 +1,6 @@
-
-
 #! /bash/bash
+
+# How to use for loop in different different ways.
 
 
 love="I love only python"
@@ -27,8 +27,8 @@ do
 done
 echo
 
-##For Loop to Read a Range with decrement
 
+##For Loop to Read a Range with decrement
 for i in {10..0..2}
 do
     echo $i 
@@ -36,9 +36,7 @@ done
 echo
 
 
-
 #For Loop to Read Array Variables
-
 array1=(1 2 3 4 5 6 7 8)
 array2=("a" "b" "c")
 
@@ -61,8 +59,6 @@ echo
 
 
 # For Loop to Read Three-expression
-
-
 for ((i=1;i<=10;i++))
 do
     echo $i 
@@ -71,7 +67,6 @@ echo
 
 
 # table of 2
-
 for k in {2..20..2}
 do
     echo "$k"
@@ -81,7 +76,6 @@ echo
 
 
 #Numbers from 1 to 20, ignoring from 6 to 15 using continue statement" 
-
 for ((i=1;i<=20;i++))
 do 
     if [ $i -gt 5 ] 
