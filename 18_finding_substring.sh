@@ -1,6 +1,6 @@
 #! /bin/bash
 
-
+# How to find substring from given string.
 
 echo "String: We welcome you on Javatpoint."
 
@@ -23,9 +23,6 @@ echo
 #  To Extract a Single Character
 substr3=${str1:11:1}
 echo $substr3
-echo
-
-
 
 #  To Extract a Single Character from last
 substr3=${str1:(-11)}
