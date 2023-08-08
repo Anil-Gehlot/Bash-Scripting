@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# replacing a word to another word of a file.
 
 read -p "Enter file name: " file_name
 
