@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# How to declare and call a function
 
 # 1st typt to declare a function...
 greet(){
