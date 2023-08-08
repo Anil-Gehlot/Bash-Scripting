@@ -1,6 +1,9 @@
 # /bin/bash
 
-# An equal operator (=) is used to check whether two strings are equal.
+
+# How to compare two strings in bash-script.
+
+# we can use !=(not equal), =(equal), \<(less than), \>(greater than) operator to compare strings.
 
 
 str1="A"
