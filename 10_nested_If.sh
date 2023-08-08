@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# How to use nested if-else statements.
+
 read -p "enter number: " num
 
 if [ $num -gt 100 ]
