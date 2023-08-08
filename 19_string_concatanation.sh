@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# How to concatenate strings together
 
 # Declaring first string 
 str1="welcome to "
