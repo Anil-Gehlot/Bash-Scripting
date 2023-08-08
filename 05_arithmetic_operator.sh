@@ -1,29 +1,30 @@
 #! /bin/bash
 
-x=10
-y=3
+# There are 13 types of arithmetic operators and always use them in between ((....))
 
+num1=10
+num2=3
 
-echo "sum: " $((x+y))
+echo "sum: " $((num1+num2))
 
-echo "minus: " $((x-y))
+echo "minus: " $((num1-num2))
 
-echo "multiply: " $((x*y))
+echo "multiply: " $((num1*num2))
 
-echo "divide: " $((x/y))
+echo "divide: " $((num1/num2))
 
-echo "exponent: " $((x**y))
+echo "exponent: " $((num1**num2))
 
-echo "modules: " $((x%y))
+echo "modules: " $((num1%num2))
 
-((x+=4))
-echo $x
+((num1+=4))
+echo $num1
 
-((y-=3))
-echo $y
+((num2-=3))
+echo $num2
 
-((x*=5))
-echo $x
+((num1*=5))
+echo $num1
 
-b=$((x%=7))
-echo $b
+var1=$((num1%=7))
+echo $var1
