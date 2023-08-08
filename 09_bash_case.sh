@@ -1,5 +1,8 @@
 #! /bin/bash
 
+
+# How to use base cases 
+
 echo "Which Operating System are you using?"  
 echo "Windows, Android, Chrome, Linux, Others?"  
 read -p "Type your OS Name:" OS  
